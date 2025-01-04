@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= " welcome to irctc! " %></h2>
+<h2><%= " ill get a job soon! " %></h2>
 </body>
 </html>
